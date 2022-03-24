@@ -1,0 +1,29 @@
+name: yield-safe
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.7
+  - cartopy
+  - voila-gridstack
+  - matplotlib
+  - iris
+  - nc-time-axis
+  - geopandas
+  - seaborn
+  - xarray
+  - rioxarray
+  - pyepsg
+  - qt
+  - azure-storage-blob
+  - markdown
+  - adlfs
+  - fsspec
+  - jupyterlab
+  - h5netcdf
+  - ca-certificates
+  - certifi
+  - openssl
+  - sqlite
+  - fastparquet
+
